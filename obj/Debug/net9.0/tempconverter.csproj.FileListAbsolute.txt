@@ -1,0 +1,15 @@
+D:\Kodehode\koding\C#\tempconverter\bin\Debug\net9.0\tempconverter.exe
+D:\Kodehode\koding\C#\tempconverter\bin\Debug\net9.0\tempconverter.deps.json
+D:\Kodehode\koding\C#\tempconverter\bin\Debug\net9.0\tempconverter.runtimeconfig.json
+D:\Kodehode\koding\C#\tempconverter\bin\Debug\net9.0\tempconverter.dll
+D:\Kodehode\koding\C#\tempconverter\bin\Debug\net9.0\tempconverter.pdb
+D:\Kodehode\koding\C#\tempconverter\obj\Debug\net9.0\tempconverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodehode\koding\C#\tempconverter\obj\Debug\net9.0\tempconverter.AssemblyInfoInputs.cache
+D:\Kodehode\koding\C#\tempconverter\obj\Debug\net9.0\tempconverter.AssemblyInfo.cs
+D:\Kodehode\koding\C#\tempconverter\obj\Debug\net9.0\tempconverter.csproj.CoreCompileInputs.cache
+D:\Kodehode\koding\C#\tempconverter\obj\Debug\net9.0\tempconverter.sourcelink.json
+D:\Kodehode\koding\C#\tempconverter\obj\Debug\net9.0\tempconverter.dll
+D:\Kodehode\koding\C#\tempconverter\obj\Debug\net9.0\refint\tempconverter.dll
+D:\Kodehode\koding\C#\tempconverter\obj\Debug\net9.0\tempconverter.pdb
+D:\Kodehode\koding\C#\tempconverter\obj\Debug\net9.0\tempconverter.genruntimeconfig.cache
+D:\Kodehode\koding\C#\tempconverter\obj\Debug\net9.0\ref\tempconverter.dll
